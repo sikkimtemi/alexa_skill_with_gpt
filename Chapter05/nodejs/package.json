@@ -1,0 +1,17 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "alexa utility for quickly building skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TAKAHASHI Taro",
+  "license": "MIT",
+  "dependencies": {
+    "ask-sdk-core": "^2.14.0",
+    "ask-sdk-model": "^1.79.0",
+    "aws-sdk": "^2.1415.0",
+    "openai": "^3.3.0"
+  }
+}
