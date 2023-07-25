@@ -80,7 +80,7 @@ const ChatBotIntentHandler = {
                 .addElicitSlotDirective(slotToElicit, intent)
                 .getResponse();
         } catch (error) {
-            console.error("Fiiled to call OpenAI API: ", error);
+            console.error("Failed to call OpenAI API: ", error);
             return handlerInput.responseBuilder
                 .speak("すみません、エラーが発生しました。しばらく時間をおいてからもう一度お試しください。")
                 .getResponse();
