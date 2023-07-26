@@ -1,6 +1,6 @@
-# 書籍「ChatGPTと会話できるアレクサスキルを作ろう 〜Node.jsとPythonに対応〜」のサポートページ
+# 書籍「ChatGPTと会話できるAlexaスキルを作ろう 〜Node.jsとPythonに対応〜」のサポートページ
 
-こちらは書籍「ChatGPTと会話できるアレクサスキルを作ろう 〜Node.jsとPythonに対応〜」のサポートページです。
+こちらは書籍「ChatGPTと会話できるAlexaスキルを作ろう 〜Node.jsとPythonに対応〜」のサポートページです。
 
 ## 書籍の紹介
 
