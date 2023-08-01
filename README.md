@@ -2,6 +2,8 @@
 
 こちらは書籍「ChatGPTと会話できるAlexaスキルを作ろう 〜Node.jsとPythonに対応〜」のサポートページです。
 
+[Amazonの商品ページ](https://www.amazon.co.jp/dp/B0CCTMGRR2)
+
 ## 書籍の紹介
 
 Alexaスキル開発に挑戦したいが、どこから始めればよいのかわからない。そんなあなたに、本書をおすすめします。
