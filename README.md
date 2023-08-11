@@ -77,3 +77,10 @@ Alexaスキル開発に挑戦したいが、どこから始めればよいのか
 ## サンプルコードの実行方法
 
 すべてのサンプルコードは、Alexa-Hosted(Python)もしくはAlexa-Hosted(Node.js)での実行を想定しています。Alexa開発者コンソールで「コードエディタ」を開き、サンプルコードをコピー＆ペーストしてください。なお、4章以降のサンプルコードの実行には、OpenAIのAPIキーが必要です。
+
+## 関連記事
+
+「5.4 さらなる改良へ向けて」に記載したアイディアをいくつか実現してみました。詳細は以下の記事をご覧ください。
+
+- [Alexaスキル用のチャットボットを8秒以内に応答させたい](https://zenn.dev/sikkim/articles/a3f6633428998e)
+- [ChatGPTと会話できるAlexaスキルにFunction callingを追加してみた](https://zenn.dev/sikkim/articles/a0f7e37bb3947d)
